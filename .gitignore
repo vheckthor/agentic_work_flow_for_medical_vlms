@@ -1,4 +1,7 @@
 .venv/
 .hf_cache/
 checkpoints/
-SLAKE/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.log
